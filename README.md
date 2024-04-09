@@ -31,7 +31,7 @@ This project aims to detect water-filled potholes using computer vision techniqu
 3. Run `image.py` to detect potholes in the specified image.
 
 ## Important Notes
-- The system utilizes the YOLOv4 Tiny model, and its weights and configuration files are provided.
+- The system utilizes the YOLOv8 Tiny model, and its weights and configuration files are provided.
 - Results, including detected pothole images and their coordinates, are stored in the 'pothole_coordinates' directory.
 
 Feel free to explore and adapt the code based on your specific requirements!
