@@ -14,11 +14,9 @@ This project aims to detect water-filled potholes using computer vision techniqu
 4. **process.py**: Additional script for processing the detected potholes.
 5. **result.avi**: Video file with the detected potholes highlighted.
 6. **test2.mp4**: Sample video file for testing the system.
-7. **trained.ipynb**: Jupyter Notebook containing the training process for the YOLO model.
-8. **yolov4_tiny.cfg**: Configuration file for the YOLOv4 Tiny model.
-9. **yolov4_tiny.weights**: Pre-trained weights for the YOLOv4 Tiny model.
-10. **yolov4tinytrain.ipynb**: Jupyter Notebook documenting the training process for YOLOv4 Tiny.
-
+7. **yolov4_tiny.cfg**: Configuration file for the YOLOv4 Tiny model.
+8. **yolov4_tiny.weights**: Pre-trained weights for the YOLOv4 Tiny model.
+ 
 ## Usage
 ### Real-time Detection (camera_video.py)
 1. Ensure the required dependencies are installed.
